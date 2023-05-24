@@ -1,2 +1,2 @@
 # Simple_Breakfast
-A little collection of simple and delightful breakfast recipe
+A barebone website written using html and css as part of an exercise of The Odin Project
